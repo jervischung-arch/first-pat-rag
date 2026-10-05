@@ -1,0 +1,7 @@
+{
+  "name": "TradingView Markets",
+  "description": "Track global financial markets, US & world stocks, crypto, futures, forex, and bonds with real-time quotes, indices sparklines, and interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
